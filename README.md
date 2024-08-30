@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100090124882421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taufiq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090124882421" target="blank"><img align="center" src="https://tenor.com/id/view/araslot-facebook-gif-6802800490138966325" alt="taufiq" height="30" width="40" /></a>
 <a href="https://youtube.com/@twfixz?si=cSq5WnGGpMTqlfsZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@twfixz" height="30" width="40" /></a>
 </p>
 
