@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Twfixz</h1>
-<h3 align="center">I'm Rhythm player from Indonesia🇮🇩</h3>
+<h3 align="center">I'm Rhythm player from Indonesia🇮🇩
+Actually I'm still a beginner in python, te-he :v</h3>
 
 <img src="https://i.imghippo.com/files/ZAcKN1724995720.jpg" alt="" border="0">
 
