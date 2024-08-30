@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Twfixz</h1>
 <h3 align="center">I'm Rhythm player from Indonesia🇮🇩</h3>
+--------|
 ![](https://www.imghippo.com/i/ZAcKN1724995720.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twfixz&label=Profile%20views&color=0e75b6&style=flat" alt="twfixz" /> </p>
