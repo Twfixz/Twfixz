@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Twfixz</h1>
-<h3 align="center">I'm Rhythm player from Indonesia🇮🇩
-Actually I'm still a beginner in python, te-he :v</h3>
+<h3 align="center">I'm Rhythm player from Indonesia🇮🇩</h3>
+<h3 align="center">Actually, I'm still a beginner when it comes to Python, but as time goes by, I'm starting to understand Python little by little. Yes, even though I'm assisted by AI, I'm still learning.</h3>
 
 <img src="https://i.imghippo.com/files/ZAcKN1724995720.jpg" alt="" border="0">
 
